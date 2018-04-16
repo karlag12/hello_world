@@ -1,0 +1,28 @@
+commit 173e318cfb130a364c355a54bc113b8e14382c6a
+Merge: 7d3d512 d728b30
+Author: karlag12 <38440109+karlag12@users.noreply.github.com>
+Date:   Mon Apr 16 16:32:32 2018 -0400
+
+    Merge pull request #1 from jyang64/patch-2
+    
+    jason
+
+commit d728b30aa69cb68c7ae73ca487d3d613d352c231
+Author: jyang64 <38383786+jyang64@users.noreply.github.com>
+Date:   Mon Apr 16 16:14:51 2018 -0400
+
+    jason
+
+commit 7d3d512eb9f853cfdf9a828c4d4399acbe38ebc6
+Author: karlag12 <38440109+karlag12@users.noreply.github.com>
+Date:   Mon Apr 16 15:53:03 2018 -0400
+
+    code for hello world
+    
+    adding the about section
+
+commit 3184c71869beecdb2e3c1d2749a470f6f3fe2714
+Author: karlag12 <38440109+karlag12@users.noreply.github.com>
+Date:   Mon Apr 16 15:21:06 2018 -0400
+
+    Initial commit
